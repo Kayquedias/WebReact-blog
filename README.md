@@ -24,7 +24,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Clone the repository
 git clone https://github.com/Kayquedias/Web-app
 
-# Enter an IDE of your daily use
+# Open an IDE of your daily use
 
 # Execute the server or use a plugin to create a new one
 ```
