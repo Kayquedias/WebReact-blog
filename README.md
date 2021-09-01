@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+<h1 align="center">Publish your blogs and articles to share with everyone   :speech_balloon:</h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
