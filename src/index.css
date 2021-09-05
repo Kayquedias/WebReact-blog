@@ -57,6 +57,27 @@
 
 .blog-preview h2 {
   font-size: 20px;
-  color: rgb(46, 46, 255);
+  color: #2e2eff;
   margin-bottom: 8px;
+}
+
+/* blog details / its body */
+
+.blog-detail h2 {
+  font-size: 20px;
+  color: #2e2eff;
+  margin-bottom: 10px;
+}
+
+.blog-detail div {
+  margin: 20px 0;
+}
+
+.blog-detail button {
+  background-color: #2e2eff;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
 }
