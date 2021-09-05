@@ -51,6 +51,10 @@
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
 
+.blog-preview a {
+  text-decoration: none;
+}
+
 .blog-preview h2 {
   font-size: 20px;
   color: rgb(46, 46, 255);

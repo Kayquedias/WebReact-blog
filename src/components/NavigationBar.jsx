@@ -1,11 +1,13 @@
+import { Link } from "react-router-dom";
+
 const NavigationBar = () => {
     return (
       <nav className="navigation-top">
         <h1>The Web Blog</h1>
         
         <div className="links">
-            <a href="/">Home</a>
-            <a href="/create">New Blog</a>
+            <Link to="/">Home</Link>
+            <Link to="/New-blog">New Blog</Link>
         </div>
       </nav>
     );
