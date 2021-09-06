@@ -16,6 +16,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <ul>
   <li>Add and remove blogs</li>
   <li>Create a new blog article</li>
+  <li>Not found page</li>
+  <li>Form to create a new blog</li>
 </ul>
 
 ## How to see my repository in your machine
