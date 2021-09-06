@@ -8,6 +8,8 @@ const Home = () => {
   // Seu nome será referido como blogs a partir de agora
   return (
     <div className="home">
+      <h2>Trending Blogs</h2>
+
       {error && <div>{error}</div>}
       {isLoaded && <div> Loading...</div>}
       {blogs && <BlogList blogs={blogs} />}

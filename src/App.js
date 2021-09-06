@@ -2,6 +2,7 @@ import Home from './components/Home';
 import NavigationBar from './components/NavigationBar';
 import CreateBlog from './components/CreateBlog';
 import BlogDetails from './components/BlogDetails';
+import NotFoundPage from './components/PageNotFound';
 
 import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
@@ -20,6 +21,9 @@ function App() {
             </Route>
             <Route path="/blogs/:id">
               <BlogDetails />
+            </Route>
+            <Route path="*">
+              <NotFoundPage />
             </Route>
           </Switch>
         </div>

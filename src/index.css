@@ -81,3 +81,51 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+/* Room new blog */
+
+.new-blog-content {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.new-blog-content label {
+  text-align: left;
+  display: block;
+}
+
+.new-blog-content h2 {
+  font-size: 20px;
+  color: #2e2eff;
+  margin-bottom: 30px;
+}
+
+.new-blog-content input, .new-blog-content textarea , .new-blog-content select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.new-blog-content button {
+  background-color: #2e2eff;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.new-blog-content button:hover {
+  background-color: #0b0bff;
+}
+
+/* Not found page 404 */
+
+.unknown-page h2 {
+  margin-bottom: 20px;
+}
