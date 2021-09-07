@@ -1,5 +1,6 @@
 <h1 align="center">Publish your blogs and articles to share with everyone   :speech_balloon:</h1>
 
+<img src='https://github.com/Kayquedias/WebReact-blog/blob/main/src/img/preview.PNG' width='1000px' >
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## :rocket: Technologies
@@ -52,6 +53,13 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+To learn about [Json-server](https://www.npmjs.com/package/json-server) 
+
+```
+# turn on the json-server
+npx json-server --watch path/to/database/db.json --port 8000
+```
 
 ### Code Splitting
 
